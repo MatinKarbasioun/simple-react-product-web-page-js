@@ -1,0 +1,14 @@
+.NavigatorLogoWrapper {
+    margin-top: 0px;
+    margin-right: 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+
+}
+
+#MainLogo {
+    width: 130px;
+    height: 70px;
+    background-color: #000000;
+}
